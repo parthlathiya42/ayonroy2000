@@ -1,6 +1,10 @@
 ### Hi buddy 👋
 
-Thanks for visiting my Github Profile. I have recently mentored **15+** hackathons, bootcamps; delivered **10+** technical talks; reviewed **4** technical books. I am also the organizer of India's **1st** Kaggle Days Meetup ( in Delhi NCR). Know more by visiting my **Portfolio Website** [here](https://ayonroy.ml/).
+Thanks for visiting my Github Profile. I have recently mentored **15+** hackathons, bootcamps; delivered **10+** technical talks; reviewed **4** technical books. I am also the organizer of India's **1st** Kaggle Days Meetup ( in Delhi NCR). Know more by visiting my **Portfolio Website** [here](https://ayonroy.ml/) or by clicking the image below.
+
+<p align="center">
+  <a href="https://ayonroy.ml/"><img width="732" height="539" src="https://github.com/ayonroy2000/ayonroy2000/blob/master/Portfolio.png"></a>
+</p>
 
 ## If you want to explore a bit about me, here I go -
 
