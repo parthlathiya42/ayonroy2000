@@ -19,7 +19,8 @@ During summers/winters; you can find me doing Internships, Research all around *
 
 Of course yes, I tried a bit of mine. I take pride in sharing that I brought **KAGGLE** Days Meetup for the first time in India. I also had the opportunity to create a learning ecosystem for 46000+ learners like me.  
   
-📌 **"So what? Where do I fit in for you?" ** 
+📌 **"So what? Where do I fit in for you?"** 
+
 You need proof from me for that. And as everything is **DATA** in 2020 ... You need a person who can extract what Data speaks! Well, lucky, you found me. I am really good in playing with data, you know! ✨  
 BONUS : I make machines intelligent with my **EXPERIENCE** as an **INTERN**.  
   
