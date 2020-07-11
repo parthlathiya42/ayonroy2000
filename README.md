@@ -5,8 +5,6 @@
 
 Thanks for visiting my Github Profile. I have recently mentored **15+** hackathons, bootcamps; delivered **10+** technical talks; reviewed **4** technical books. I am also the organizer of India's **1st** Kaggle Days Meetup ( in Delhi NCR).
 
---
-
 ## If you want to explore a bit about me, here I go -
 
 I love to explore how a **MACHINE** is **LEARNING** and how can I use my adaptive problem-solving skills to help those **ARTIFICAL** brains boost their **INTELLIGENCE**.  
