@@ -1,10 +1,11 @@
-### Hi buddy 👋
+### Hi there, I'm Ayon Roy 👋
 
-Thanks for visiting my Github Profile. I have recently mentored **15+** hackathons, bootcamps; delivered **10+** technical talks; reviewed **4** technical books. I am also the organizer of India's **1st** Kaggle Days Meetup ( in Delhi NCR). Know more by visiting my **Portfolio Website** [here](https://ayonroy.ml/) or by clicking the image below.
+[![linkedin badge](https://img.shields.io/badge/LinkedIn-ayonroy2000-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ayonroy2000/)
+[![blog badge](https://img.shields.io/badge/PortfolioWebiste-ayonroy.ml-1f425f?style=flat-square)](https://ayonroy.ml)
 
-<p align="center">
-  <a href="https://ayonroy.ml/"><img width="732" height="539" src="https://github.com/ayonroy2000/ayonroy2000/blob/master/Portfolio.png"></a>
-</p>
+Thanks for visiting my Github Profile. I have recently mentored **15+** hackathons, bootcamps; delivered **10+** technical talks; reviewed **4** technical books. I am also the organizer of India's **1st** Kaggle Days Meetup ( in Delhi NCR).
+
+--
 
 ## If you want to explore a bit about me, here I go -
 
